@@ -1,17 +1,17 @@
 # AspNetCoreMvc
 Asp.Net Core da Kurumsal Mimari Yapıları Oluşturma ve Proje Geliştirme
 
-#1.Bölüm
+# 1.Bölüm
 •	Projede yapılacak görselleri göreceksiniz… 
-#2.Bölüm
+# 2.Bölüm
 •	Proje oluştuma görselleri…
-#3.Bölüm
+# 3.Bölüm
 •	Entities Katmanın Veri tabandaki tablolalar karşılık gelir.
-#4.Bölüm 
+# 4.Bölüm 
 •	DataAccess Katmanı oluşturma
 •	Generic Repository Oluşturma
 •	DbContext Sınıfını Oluşturma
-#5.Bölüm
+# 5.Bölüm
 •	Bussiness Katmanı oluşturma
 6.Bölüm
 •	WebUI Katmanını oluşturma
