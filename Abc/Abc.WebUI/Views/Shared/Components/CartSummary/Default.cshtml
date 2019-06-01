@@ -1,0 +1,18 @@
+﻿@model CartSummaryViewModel
+
+<ul class="dropdown-menu">
+    @foreach (var item in Model.Cart.CartLines)
+    {
+        <li>
+            <a>@item.Product.ProductName <span class="bedge">@item.Quantity</span> </a>
+        </li>
+    }
+    <li role="separator" class="driver"></li>
+    <li>
+        <a><span class="" aria-hidden="true"></span>@Model.Cart.Total</a>
+    </li>
+    <li role="separator" class="driver"></li>
+    <li>
+        <a asp-controller="Cart" asp-action="List">Go to Cart List</a>
+    </li>
+</ul>

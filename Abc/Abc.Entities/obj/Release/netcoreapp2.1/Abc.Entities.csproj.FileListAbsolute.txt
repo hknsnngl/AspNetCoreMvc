@@ -1,0 +1,14 @@
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Abc.Entities.deps.json
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Abc.Entities.dll
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Abc.Entities.pdb
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Abc.Core.dll
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Abc.Core.pdb
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\bin\Release\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.csprojAssemblyReference.cache
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.AssemblyInfo.cs
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.csproj.CopyComplete
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.dll
+C:\Users\hakan\Desktop\CoreProjeler\Abc\Abc.Entities\obj\Release\netcoreapp2.1\Abc.Entities.pdb
