@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\BlogApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\BlogApp.Data.csproj",
+        "projectName": "BlogApp.Data",
+        "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\BlogApp.Data.csproj",
+        "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "projectName": "BlogApp.Entity",
+        "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
+        "projectName": "BlogApp.WebUI",
+        "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
+        "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\BlogApp.Data.csproj": {
+                "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Data\\BlogApp.Data.csproj"
+              },
+              "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\hakan\\Desktop\\CoreProjeler\\3_BlogApp_Bitti\\BlogApp.Entity\\BlogApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

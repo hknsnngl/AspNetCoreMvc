@@ -1,0 +1,17 @@
+{
+  "name": "BlogApp.WebUI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ckeditor": "^4.11.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
